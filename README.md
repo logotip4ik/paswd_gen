@@ -20,7 +20,7 @@ This outputs random generated password length of 15 characters, digits and punct
 ```bash
 python3 pswdgen.py 30
 ```
-* Also you can select quiet mode, with `-q` or `--quiet`. This will copy password to clipboard and wont print any output.
+* Also you can select quiet mode, with `-q` or `--quiet`. This will copy password to clipboard and wont print anything.
 ```bash
 python3 pswdgen.py -q
 ```
